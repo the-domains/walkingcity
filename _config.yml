@@ -1,0 +1,14 @@
+layout_spectrum: 0.6038367559667677
+typography_spectrum: 0.2712641342077404
+color:
+  brandStrength: 0.9026725720614195
+  lightness: 0.10987146175466478
+  saturation: 0.0832983385771513
+  rhythmicContrast: 0.8883055681362748
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: walking.city
