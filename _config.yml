@@ -6,9 +6,9 @@ color:
   saturation: 0.0832983385771513
   rhythmicContrast: 0.8883055681362748
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: walking.city
